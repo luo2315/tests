@@ -1,0 +1,14 @@
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css';
+import './img/banner.png';
+import './img/img.png';
+import './img/banner2.png';
+import './img/img2.png';
+import './img/img3.png';
+import './img/img4.png';
+import './img/banner3.png';
+import './img/logo2.png';
+import './img/logo(4).png';
+import 'jquery';
+import './img/iconfont.css';

@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1644389274872') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sousuo:before {
+  content: "\e651";
+  font-size: 28px;
+  margin: 0 10px 0 50px;
+}
+.icon-xinwen:before {
+  content: "\e69e";
+  font-size: 28px;
+  margin: 0 10px 0 50px;
+  color: black;
+}
+
+.icon-yewu:before {
+  content: "\e606";
+  font-size: 28px;
+  margin: 0 10px 0 50px;
+  color: black;
+
+}
+
+.icon-qiandao:before {
+  content: "\e687";
+}
+
+.icon-qiye:before {
+  content: "\e91d";
+  font-size: 28px;
+  margin: 0 10px 0 50px;
+  color: black;
+}
+
+.icon-xiaoxi:before {
+  content: "\e654";
+}
+
+.icon-men:before {
+  content: "\e605";
+  font-size: 28px;
+  margin: 0 10px 0 50px;
+  color: black;
+}
+.icon-24gl-telephone2:before {
+  content: "\e953";
+  color: white;
+  float: left;
+  font-size: 45px;
+  margin-right: 3%;
+}
+.icon-shouye:before {
+  content: "\e637";
+  color: white;
+  float: left;
+  font-size: 45px;
+  margin-right: 3%;
+}
+.icon-youzhengfuwu:before {
+  content: "\e61a";
+  color: white;
+  float: left;
+  font-size: 45px;
+  margin-right: 3%;
+}
+
